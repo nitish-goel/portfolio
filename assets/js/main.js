@@ -67,7 +67,7 @@ const profileLines = [
   { k: 'role',       v: '"Backend Developer"' },
   { k: 'location',   v: '"Punjab, IN"' },
   { k: 'experience', v: '"1.5 years"' },
-  { k: 'stack',      v: '["PHP","Laravel","Node.js","MongoDB"]' },
+  { k: 'stack',      v: '["PHP","Laravel","CodeIgniter","Node.js"]' },
   { k: 'status',     v: '"available_for_freelance"' }
 ];
 
