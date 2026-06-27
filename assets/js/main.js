@@ -160,9 +160,9 @@ const contactMessage = document.getElementById('contact-message');
 contactForm && contactForm.addEventListener('submit', (e) => {
   e.preventDefault();
 
-  const SERVICE_ID  = 'YOUR_SERVICE_ID';
-  const TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
-  const PUBLIC_KEY   = 'YOUR_PUBLIC_KEY';
+  const SERVICE_ID  = 'service_mctnc6p';
+  const TEMPLATE_ID = 'template_xgpdfv4';
+  const PUBLIC_KEY   = 'C6n6un0GwuqMVbO4y';
 
   if (!window.emailjs || SERVICE_ID === 'YOUR_SERVICE_ID') {
     contactMessage.style.color = 'var(--warn)';
